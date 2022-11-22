@@ -1,0 +1,17 @@
+.input{
+    display: flex;
+}
+.input input{
+    flex:1;
+}
+
+.btns {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: center;
+    margin-top: 20px;
+}
+.btns button{
+    width: 30%;
+}

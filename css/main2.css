@@ -1,0 +1,12 @@
+.input{
+    display: flex;
+}
+.input input{
+    flex:1;
+}
+
+.btns {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    gap: 5px;
+}
